@@ -5,7 +5,7 @@
     "layout": "boxed",
     "style": "bold",
     "palette": "gray",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "DIY",
