@@ -4,7 +4,7 @@
     "description": "A \"do it yourself\" theme for Stackbit",
     "layout": "boxed",
     "style": "bold",
-    "palette": "gray",
+    "palette": "red",
     "mode": "dark",
     "base_font": "serif",
     "header": {
